@@ -187,3 +187,6 @@ The dataset contains **7,031 listing names with commas** and **150 with quotes**
 
 ---
 
+## Tableau Dashboard
+[View the Tableau Dashboard](https://public.tableau.com/app/profile/dheeraj.choudhary8064/viz/AirbnbAnalysis_17748897629700/Dashboard1)
+
